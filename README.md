@@ -36,10 +36,3 @@ El repositorio se organiza en dos carpetas principales:
 1. **frontend:** Contiene los archivos relacionados con la interfaz de usuario, como HTML, CSS y JavaScript.
 2. **backend:** Incluye los scripts de PHP que gestionan las solicitudes del frontend y realizan operaciones en la base de datos.
 
-**Uso y Personalización:**
-
-Este proyecto puede servir como punto de partida para desarrolladores que deseen crear sus propios sistemas de gestión utilizando PHP y JWT. El código está documentado y estructurado para facilitar su comprensión y adaptación a proyectos más complejos.
-
-Se anima a los desarrolladores a explorar el código, realizar mejoras y personalizaciones según sus necesidades específicas. Cualquier pregunta o sugerencia puede ser comunicada a través de issues o solicitudes de pull.
-
-¡Disfruten aprendiendo y desarrollando con este ejemplo de CRUD con PHP y JWT!
